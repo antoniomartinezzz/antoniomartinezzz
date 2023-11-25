@@ -17,9 +17,9 @@
 
 
 <!-- Showing what you work on, lets other collaborate with you -->
-<!## Research
+<! Research -->
 
-<!### Previous: -->
+<! Previous: -->
 
 <!-- Previous research topic #1-->
 <!-- - Previous research topic #2 -->
